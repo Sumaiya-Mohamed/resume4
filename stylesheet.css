@@ -1,0 +1,57 @@
+body{
+    background-color: white;
+     font-family:'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: palevioletred;
+    text-align: center;
+    color: white;
+    padding-left: 25%;
+    padding-right: 25%;
+     }
+ 
+    .center {
+        margin-top: 25px;
+        width: 50%;
+        border-radius: 50%;
+      }
+     h1{
+        color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+     }
+     
+     aside{
+        background-color: lightgrey;
+         width: 200px;
+         height: 200px;
+         font-size: 20px;
+         
+     } 
+
+     #menu{
+      text-align: center;
+     }
+      
+     h2{
+        color: palevioletred;
+     }
+
+     section{
+      background-color: white;
+      padding-left: 15%;
+      padding-right: 15%;
+      }
+
+    footer{
+         background-color: pink;
+          padding-left: 15%;
+          
+      }
+     
+
+     
+     
+      
+      
